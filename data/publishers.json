@@ -1,0 +1,24 @@
+{
+  "publishers": [
+    {
+      "publisherId": "pub-aurora",
+      "aliasName": "Aurora Media",
+      "filename": "publisher-aurora.json"
+    },
+    {
+      "publisherId": "pub-borealis",
+      "aliasName": "Borealis News",
+      "filename": "publisher-borealis.json"
+    },
+    {
+      "publisherId": "pub-cascade",
+      "aliasName": "Cascade Daily",
+      "filename": "publisher-cascade.json"
+    },
+    {
+      "publisherId": "pub-summit",
+      "aliasName": "Summit Insights",
+      "filename": "publisher-summit.json"
+    }
+  ]
+}
